@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashad Asadli</h1>
-<h3 align="center">A passionate fullstack developer from Azerbaijan</h3>
+<h3 align="center">A passionate FullStack Developer from Azerbaijan</h3>
 
 
 

@@ -1,26 +1,16 @@
-# Hi 👋, I'm Rashad Asadli
-
-### Full Stack .NET Developer | Azerbaijan
+<h1 align="center">Hi 👋, I'm Rashad Asadli</h1>
+<h3 align="center">Full Stack .NET Developer | Azerbaijan</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rasadli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasadli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadli&layout=compact&hide_border=true"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadli&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rasadli&theme=flat&no-frame=true&row=1"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=rasadli&theme=flat&no-frame=true&row=1" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

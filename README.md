@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rashad Asadli</h1>
-<h3 align="center">Full Stack .Net Developer from Azerbaijan</h3>
+# Hi 👋, I'm Rashad Asadli
 
+### Full Stack .NET Developer | Azerbaijan
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rasadli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
+    alt="GitHub stats"
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasadli&show_icons=true&locale=en&layout=compact" alt="rasadli" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadli&layout=compact&hide_border=true"
+    alt="Top languages"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasadli&show_icons=true&locale=en" alt="rasadli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasadli&" alt="rasadli" /></p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rasadli&theme=flat&no-frame=true&row=1"
+    alt="GitHub trophies"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

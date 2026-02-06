@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi I am Rashad Asadli and working as a C# .NET Developer
 
 

@@ -1,5 +1,5 @@
-#  About Me:
-Hi I am Rashad Asadli and working as a C# .NET Developer
+# 💫 About Me:
+I am Rashad and I am working as a C# .NET Developer.
 
 
 ## 🌐 Socials:
